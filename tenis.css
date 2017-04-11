@@ -1,14 +1,14 @@
 #canchaTenis {
     width: 400px;
     height: 250px;
-    background: #008000;
+    background: #228b22;
     border-color: #ffffff ;
 }
 
 .rectangulo1 {
 	width: 400px;
     height: 188px;
-    background: #008000;
+    background: #228b22;
     border: 2px solid #ffffff;
     position: absolute;
     top: 81px;
@@ -20,7 +20,7 @@
 	height: 250px;
 	border: 2px solid #ffffff;
 	position: absolute;
-	top: 46px; 
+	top: 48px; 
 }
 
 .rectangulo3 {

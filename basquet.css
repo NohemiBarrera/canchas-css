@@ -1,7 +1,7 @@
 #canchaBasquet {
 	width: 400px;
     height: 250px;
-    background: #008000;
+    background: #8b6313;
     border-color: #ffffff ;
 }
 .circuloB {
@@ -9,7 +9,7 @@
      height: 50px;
      border-radius: 50%;
      border: 2px solid #ffffff;
-     background: #008000;
+     background: #8b6313;
      position: absolute;
      top: 141px;
      left: 180px;
@@ -20,7 +20,7 @@
     height: 250px;
     border: 2px solid #ffffff;
     position: absolute;
-    top: 46px;
+    top: 48px;
     left: 6px;
 }
 
@@ -29,7 +29,7 @@
      height: 50px;
      border-radius: 50%;
      border: 2px solid #ffffff;
-     background: #008000;
+     background: #8b6313;
      position: absolute;
      top: 141px;
      left: 65px;
@@ -41,7 +41,7 @@
      height: 50px;
      border-radius: 50%;
      border: 2px solid #ffffff;
-     background: #008000;
+     background: #8b6313;
      position: absolute;
      top: 141px;
      left: 295px;
@@ -52,7 +52,7 @@
     width: 110px;
     height: 200px;
     border: 2px solid #ffffff ;
-    background: #008000;
+    background: #8b6313;
     border-radius: 0 100px 100px 0;
     position: relative;
     top: 23px; 
@@ -64,7 +64,7 @@
     width: 110px;
     height: 200px;
     border: 2px solid #ffffff ;
-    background: #008000;
+    background: #8b6313;
     border-radius: 0 100px 100px 0;
     position: relative;
     top: -181px; 
