@@ -1,0 +1,25 @@
+#canchaBasquet {
+	width: 400px;
+    height: 250px;
+    background: #008000;
+    border-color: #ffffff ;
+}
+.circuloB {
+     width: 50px;
+     height: 50px;
+     border-radius: 50%;
+     border: 2px solid #ffffff;
+     background: #008000;
+     position: absolute;
+     top: 141px;
+     right: 322px;
+}
+
+.rectanguloB {
+	width: 200px;
+    height: 250px;
+    border: 2px solid #ffffff;
+    position: absolute;
+    top: 48px;
+    left: 6px;
+}

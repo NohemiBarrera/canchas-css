@@ -1,0 +1,48 @@
+#canchaTenis {
+    width: 400px;
+    height: 250px;
+    background: #008000;
+    border-color: #ffffff ;
+}
+
+.rectangulo1 {
+	width: 400px;
+    height: 188px;
+    background: #008000;
+    border: 2px solid #ffffff;
+    position: absolute;
+    top: 81px;
+    left: 6px;
+}
+
+.rectangulo2 {
+	width: 200px;
+	height: 250px;
+	border: 2px solid #ffffff;
+	position: absolute;
+	top: 48px; 
+}
+
+.rectangulo3 {
+	width: 85px;
+	height: 188px;
+	border: 2px solid #ffffff;
+	position: absolute;
+	top: 81px;
+}
+.rectangulo4 {
+	width: 85px;
+	height: 188px;
+	border: 2px solid #ffffff;
+	position: absolute;
+	top: 81px;
+	right: 147px;
+}
+.rectangulo5 {
+	width: 224px;
+	height: 96px;
+	border: 2px solid #ffffff;
+	position: absolute;
+	top: 81px;
+	right: 234px;
+}
