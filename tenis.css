@@ -20,7 +20,7 @@
 	height: 250px;
 	border: 2px solid #ffffff;
 	position: absolute;
-	top: 48px; 
+	top: 46px; 
 }
 
 .rectangulo3 {
@@ -36,7 +36,7 @@
 	border: 2px solid #ffffff;
 	position: absolute;
 	top: 81px;
-	right: 147px;
+	left: 321px;
 }
 .rectangulo5 {
 	width: 224px;
@@ -44,5 +44,5 @@
 	border: 2px solid #ffffff;
 	position: absolute;
 	top: 81px;
-	right: 234px;
+	left: 95px;
 }
